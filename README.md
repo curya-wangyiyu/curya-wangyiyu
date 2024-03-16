@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m @curya (Wang Yiyu) ⚡
+### 👋 Hi there, I’m @Yiyu Wang (王义宇) ⚡
 
 <!---
 curya-wangyiyu/curya-wangyiyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
